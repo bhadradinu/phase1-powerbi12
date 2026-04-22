@@ -1,0 +1,5 @@
+This dashboard helps us to show the overall sales and profit performance.
+It highlights which category contribute the most.
+These trend chart helps us to identify growth patterns and seasonal changes.
+We can filter the data using slicers to explore specific regions or categories.
+Overall , it helps in making better decisions based on data.
